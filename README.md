@@ -17,4 +17,7 @@ breeze_connect
 tabulate
 pyotp
 
+# You can Download latest Chrome version from below link
+https://googlechromelabs.github.io/chrome-for-testing/
+
 Enjoy the code and comments!! :)
